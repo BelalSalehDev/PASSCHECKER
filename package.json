@@ -1,0 +1,26 @@
+{
+  "name": "passchecker",
+  "version": "1.0.0",
+  "description": "A JavaScript utility module that validates passwords based on security requirements.",
+  "main": "PasswordChecker.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BelalSalehDev/PASSCHECKER.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/BelalSalehDev/PASSCHECKER/issues"
+  },
+  "homepage": "https://github.com/BelalSalehDev/PASSCHECKER#readme",
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "typescript": "^6.0.2"
+  }
+}
